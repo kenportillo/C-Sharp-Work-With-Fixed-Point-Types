@@ -1,0 +1,11 @@
+/Users/Hi/Development/C#/Work-with-fixed-point-types/bin/Debug/netcoreapp3.1/Work-with-fixed-point-types
+/Users/Hi/Development/C#/Work-with-fixed-point-types/bin/Debug/netcoreapp3.1/Work-with-fixed-point-types.deps.json
+/Users/Hi/Development/C#/Work-with-fixed-point-types/bin/Debug/netcoreapp3.1/Work-with-fixed-point-types.runtimeconfig.json
+/Users/Hi/Development/C#/Work-with-fixed-point-types/bin/Debug/netcoreapp3.1/Work-with-fixed-point-types.runtimeconfig.dev.json
+/Users/Hi/Development/C#/Work-with-fixed-point-types/bin/Debug/netcoreapp3.1/Work-with-fixed-point-types.dll
+/Users/Hi/Development/C#/Work-with-fixed-point-types/bin/Debug/netcoreapp3.1/Work-with-fixed-point-types.pdb
+/Users/Hi/Development/C#/Work-with-fixed-point-types/obj/Debug/netcoreapp3.1/Work-with-fixed-point-types.csprojAssemblyReference.cache
+/Users/Hi/Development/C#/Work-with-fixed-point-types/obj/Debug/netcoreapp3.1/Work-with-fixed-point-types.AssemblyInfoInputs.cache
+/Users/Hi/Development/C#/Work-with-fixed-point-types/obj/Debug/netcoreapp3.1/Work-with-fixed-point-types.AssemblyInfo.cs
+/Users/Hi/Development/C#/Work-with-fixed-point-types/obj/Debug/netcoreapp3.1/Work-with-fixed-point-types.dll
+/Users/Hi/Development/C#/Work-with-fixed-point-types/obj/Debug/netcoreapp3.1/Work-with-fixed-point-types.pdb
